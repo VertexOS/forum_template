@@ -1,0 +1,72 @@
+[CENTER][IMG]https://s3.postimg.org/65w6itsgz/31_banner.png[/IMG][/CENTER]
+[CENTER][CODE]
+*** Disclamer
+I do not assume responsibility for any issues that befall you when you flash this ROM and kernel.
+[/CODE][/CENTER]
+
+[B][SIZE="3"]Introduction[/SIZE][/B]
+VertexOS aims to provide a simple but enhanced near-stock AOSP experience with carefully selected features and an emphasis on stability and smoothness. 
+
+[B][SIZE="3"]Downloads[/SIZE][/B]
+EDIT >>>>> 
+
+[B][SIZE="3"]VertexOS features[/SIZE][/B]
+[HIDE]
+* Vertex Walls
+* Daydream VR support
+* Disable SIM toggle
+* OMS (please install Substratum separately)
+* SELinux Enforcing
+* sRGB toggle (AOSPA)
+* Buttons customization (AOSPA)
+* Battery icon customization (AOSPA)
+* Double tap Launcher3 homescreen to sleep (AOSPA)
+* Double tap lockscreen to sleep
+* Alert Slider
+* Off-screen gestures
+* Slide on statusbar to adjust brightness
+* Night light
+* Unlink ring and notification volume
+* Longpress volume keys for previous/next music track
+* Screenrecorder (toggled with Volume Up + Power)
+* Signature spoofing (for microG)
+[/HIDE]
+
+[B][SIZE="3"]Recommended setup[/SIZE][/B]
+EDIT >>>>> TWRP: [URL="https://dl.twrp.me/oneplus3/"]3.1.0-0 Official TWRP (OP3)[/URL], [URL="https://dl.twrp.me/oneplus3t/"]3.1.0-1 Official TWRP (OP3T)[/URL]
+EDIT >>>>> Firmware (use the latest): ([URL="https://forum.xda-developers.com/oneplus-3/how-to/radio-modem-collection-flashable-zips-t3468628"]OP3[/URL]), ([URL="https://forum.xda-developers.com/oneplus-3t/how-to/4-0-3-flashable-firmware-modem-t3553707"]OP3T[/URL])
+Filesystem: EXT4
+Superuser: Magisk
+GApps: Open GApps
+
+[B][SIZE="3"]Installation[/SIZE][/B]
+Make sure you are on the recommended TWRP.
+1. Nandroid backup.
+2. Wipe /cache and /system. If coming from another ROM, wipe /data as well.
+3. Flash recommended firmware.
+4. Flash ROM, GApps, and Magisk.
+
+[B][SIZE="3"]Bug reports[/SIZE][/B]
+No support will be given for problems caused by Xposed, Greenify, Naptime, Titanium Backup, ForceDoze, MicroGMS, other kernels, Substratum themes, different TWRP, different firmware, other tweaks (build.prop, etc).
+* Logcat required. You may use [URL="https://play.google.com/store/apps/details?id=com.pluscubed.matlog"]Matlog[/URL], [URL="https://play.google.com/store/apps/details?id=com.tortel.syslog"]Syslog[/URL], or [URL="https://forum.xda-developers.com/showthread.php?t=1726238"]ADB through a computer[/URL]. Share via [URL="https://hastebin.com"]https://hastebin.com[/URL] (or equivalents).
+* Clear description of error.
+* Does it happen on clean flash?
+* Did you try to reproduce the error without Substratum themes enabled?
+
+[B][SIZE="3"]Known issues[/SIZE][/B]
+EDIT >>>>>
+
+[B][SIZE="3"]Slack group[/SIZE][/B]
+PM me or (@joshuous, @calvinistmac, @mostafawael) if you would like to join the VertexOS Slack group for test builds, easier bug reports and quicker replies from me :)
+
+[B][SIZE="3"]Credits and acknowledgements[/SIZE][/B]
+EDIT >>>>> 
+* @joshuous (Main VertexOS dev)
+* Google, CAF, AOSPA, LOS, PureNexus, DirtyUnicorns, @myfluxi, @dianlujitao, @sultanxda, @flar2, @LordBoeffla
+
+[B][SIZE="3"]Source codes[/SIZE][/B]
+[URL="https://github.com/VertexOS-Devices"]Device[/URL]
+EDIT >>>>> [URL="https://github.com/VertexOS-Devices/android_kernel_oneplus_msm8996"]Kernel[/URL]
+[URL="https://github.com/VertexOS"]ROM[/URL]
+
+[CENTER][IMG]https://s2.postimg.org/6i4jc6f2x/vertex_banner_000.png[/IMG][/CENTER]
